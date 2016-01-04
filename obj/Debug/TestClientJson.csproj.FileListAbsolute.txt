@@ -1,0 +1,5 @@
+c:\users\443700370\documents\visual studio 2012\Projects\TestClientJson\TestClientJson\bin\TestClientJson.dll
+c:\users\443700370\documents\visual studio 2012\Projects\TestClientJson\TestClientJson\bin\TestClientJson.pdb
+c:\users\443700370\documents\visual studio 2012\Projects\TestClientJson\TestClientJson\obj\Debug\TestClientJson.csprojResolveAssemblyReference.cache
+c:\users\443700370\documents\visual studio 2012\Projects\TestClientJson\TestClientJson\obj\Debug\TestClientJson.dll
+c:\users\443700370\documents\visual studio 2012\Projects\TestClientJson\TestClientJson\obj\Debug\TestClientJson.pdb
